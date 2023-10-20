@@ -4,7 +4,7 @@
 - Aplicativo que consiste em um sistema de compras;
 - Marque os itens que quer comprar e o sistema mostra o valor total das compras;
 - Quarto exercício da matéria de mobile.
-- 
+  
 ## Layout mobile 
 | <img src="https://i.pinimg.com/564x/d8/d9/fe/d8d9fe3101418928efc49ad839cd477f.jpg" alt="calculadora"/> | <img src="https://i.pinimg.com/564x/e0/f6/83/e0f6831c95801151bf0417fbd11e54bd.jpg" alt="calculadora"/> |
 | ------------- | ------------- |
